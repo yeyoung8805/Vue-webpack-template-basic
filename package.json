@@ -46,7 +46,7 @@
     "not ie 11"
   ],
   "description": "## Project setup ``` npm install ```",
-  "main": "babel.config.js",
+  "private" : true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yeyoung8805/Vue-webpack-template-basic.git"
