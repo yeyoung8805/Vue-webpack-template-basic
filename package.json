@@ -44,5 +44,18 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyoung8805/Vue-webpack-template-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeyoung8805/Vue-webpack-template-basic/issues"
+  },
+  "homepage": "https://github.com/yeyoung8805/Vue-webpack-template-basic#readme"
 }
